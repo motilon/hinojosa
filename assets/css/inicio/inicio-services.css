@@ -1,0 +1,45 @@
+/* Inicio services */
+
+.bg-servicios{
+	background:#E5E5E5;
+}
+
+.inicio_servicios{
+	color:#7E7E7E;
+	padding-top:50px;
+
+}
+
+.inicio_servicios h2{
+	color:#0B265B;
+	font-size:2.4rem;
+	font-family:'titulo';
+	text-align:center;
+}
+.inicio_servicios p{
+	color:#7E7E7E;
+	font-size:1.2rem;
+	text-align:center;
+}
+
+.inicio_servicios--parrafo{
+	padding-bottom:40px;
+}
+
+.inicio_servicios--parrafo figure{
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.inicio_servicios--parrafo h2{
+	color:#7E7E7E;
+	font-family:'titulo';
+	font-size:2.4rem;
+
+}
+
+.inicio_servicios--parrafo h2 span{
+	color:#CF5049;
+
+}

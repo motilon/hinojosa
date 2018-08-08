@@ -1,0 +1,77 @@
+/* Hoja de Estilos Hinojosa 2016 */
+
+/* Responsive */
+@import url("../css/responsive.css");
+
+/* Layout */
+@import url("../css/layout/menu.css");
+@import url("../css/layout/footer.css");
+
+/* Inicio */
+@import url("../css/inicio/inicio-banner.css");
+@import url("../css/inicio/inicio-services.css");
+@import url("../css/inicio/inicio-form.css");
+@import url("../css/inicio/inicio-hours.css");
+@import url("../css/inicio/inicio-news.css");
+
+/* Noticia */
+@import url("../css/noticia/noticia-cabecera.css");
+@import url("../css/noticia/noticia-articulo.css");
+@import url("../css/noticia/noticia-separador.css");
+
+/* Contenido */
+@import url("../css/contenido/contenido-cabecera.css");
+@import url("../css/contenido/contenido-articulo.css");
+
+
+/* Blog */
+@import url("../css/blog/blog-noticias.css");
+
+/* Contacto */
+@import url("../css/contacto/contacto-cabecera.css");
+@import url("../css/contacto/contacto-formulario.css");
+
+
+
+@font-face {
+	font-family:'titulo';
+	src:url('../fonts/ubuntu/Ubuntu-Bold.ttf');
+}
+
+@font-face {
+	font-family:'contenido';
+	src:url('../fonts/ubuntu/Ubuntu-Light.ttf');
+}
+
+body{
+	font-size:12pt;
+	font-family:'contenido';
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+/* Noticia Cabecera */
+
+.noticia-bg{
+	background:#D9544D;
+	margin-top:-20px;
+	padding-top:30px;
+	padding-bottom:35px;
+
+}
+
+.noticia_cabecera h2{
+	color:white;
+	text-align:center;
+	font-size:2.4rem;
+	font-family:'titulo';
+}
+
+.noticia_cabecera h2{
+	color:white;
+	text-align:center;
+	font-size:2.6rem;
+	font-family:'titulo';
+}
+
+.noticia_cabecera hr{
+	width:7%;
+	border:1px solid white;
+	margin-top:-3px;
+
+}

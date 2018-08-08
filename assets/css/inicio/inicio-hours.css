@@ -1,0 +1,45 @@
+/* Inicio Hours */
+
+.bg-horarios{
+	background:#0B1A4A;
+}
+
+.inicio_horarios--informacion{
+	color:white;
+	padding-top:55px;
+}
+
+.inicio_horarios--informacion h2{
+	font-size:2.4rem;
+	padding-left:15px;
+	font-family:'titulo';
+}
+
+.inicio_horarios--informacion-dias h3{
+	font-size:1.6rem;
+	font-family:'titulo';
+	color:#CD3D3D;
+}
+
+.inicio_horarios--informacion-dias p{
+	font-size:1.4rem;
+	font-family:'titulo';
+	color:white;
+}
+
+.inicio_horarios--informacion-horas h3{
+	font-size:1.4rem;
+	font-family:'titulo';
+	color:#CD3D3D;
+}
+
+.inicio_horarios--informacion-horas p{
+	font-size:1.4rem;
+	font-family:'contenido';
+	color:white;
+	line-height:20px;
+}
+
+.inicio_horarios--informacion-horas p span{
+	color:#CD3D3D;
+}

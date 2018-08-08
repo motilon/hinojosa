@@ -1,0 +1,93 @@
+/* Inicio Banner */
+
+.inicio-bg{
+	background: url('../../img/cabecera-bg.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top:-20px;
+}
+
+.inicio_banner{
+	padding-top:40px;
+	margin-left:40px;
+}
+
+.inicio_banner--imagen-cuerpo{
+	padding-bottom:30px;
+}
+
+.inicio_banner--logo-informacion{
+	padding-top:20px;
+}
+
+.inicio_banner--logo-informacion figure{
+	text-align:center;
+}
+
+.inicio_banner--imagen-cuerpo{
+	text-align:center;
+}
+
+h1.inicio_banner--logo-informacion-h1{
+	color:#CD3D3D;
+	font-size:2.4rem;
+	font-family:'titulo';
+	text-align:center;
+
+}
+
+h1.inicio_banner--logo-informacion-h1 span{
+	color:white;
+}
+
+
+hr{
+	width:19%;
+	color:yellow;
+	margin-top:2px;
+	border:1px solid #CD3D3D;
+}
+
+h2.inicio_banner--logo-informacion-h2{
+	color:#CD3D3D;
+	font-size:1.4rem;
+	font-family:'titulo';
+	text-align:center;
+	margin-top:-14px;
+
+}
+
+p.inicio_banner--logo-informacion-parrafo{
+	color:white;
+	font-size:1.5rem;
+	text-align:center;
+	padding-top:5px;
+}
+
+.inicio_banner--logo-doctor{
+	padding-top:13px;
+	padding-bottom:10px;
+}
+
+.inicio_banner--logo-doctor figure{
+	text-align:center;
+}
+
+.inicio_banner--logo-doctor figure img{
+	width:100px;
+	height:100px;
+	border-radius:50%;
+}
+
+p.inicio_banner--logo-doctor-parrafo{
+	color:white;
+	font-size:1.5rem;
+	text-align:center;
+	line-height:17px;
+	padding-top:12px;
+}
+
+p.inicio_banner--logo-doctor-parrafo span{
+	color:#CD3D3D;
+	font-family:'titulo';
+}

@@ -1,0 +1,30 @@
+/* Blog Noticias */
+
+.bg-blog{
+	padding-top:100px;
+	padding-bottom:150px;
+}
+.blog_noticias--padding{
+	margin-top:50px;
+}
+
+.blog_noticias p{
+ padding-top:10px;
+ font-size:1.2rem;
+ line-height:18px;
+ font-family:'titulo';
+ color:#8A847E;
+}
+
+.blog_noticias hr{
+	width:23%;
+	margin-left:0px;
+	border:2px solid #D9544D;
+}
+
+.blog_noticias p.fecha{
+ margin-top:-18px;
+ font-size:1.2rem;
+ font-family:'contenido';
+ color:#ABAAAB;
+}

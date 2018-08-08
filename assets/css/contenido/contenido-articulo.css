@@ -1,0 +1,166 @@
+.contenido_parrafo{
+	padding-top:55px;
+}
+
+.contenido_parrafo p{
+	color:#747474;
+	font-family:'contenido';
+	text-align:justify;
+	font-size:1.4rem;
+}
+
+.contenido_parrafo h3{
+	color:#0B1A49;
+	font-family:'titulo';
+	text-align:justify;
+	font-size:1.6rem;
+	padding-top:25px;
+	padding-bottom:25px;
+
+}
+
+.contenido_parrafo hr{
+	width:60%;
+	margin-left:0px;
+	margin-top:60px;
+}
+
+.contenido_parrafo--enlaces h2{
+	color:#919191;
+	font-size:1.7rem;
+	font-family:'titulo';
+	padding-top:25px;
+}
+
+.contenido_parrafo--enlaces p{
+	margin-top:-12px;
+	padding-bottom:90px;
+}
+
+.contenido_parrafo--enlaces p a{
+	color:#CC3D3D;
+	font-size:1.4rem;
+	font-family:'titulo';
+}
+
+.contenido_parrafo--enlaces p a:hover{
+	color:#0B1A4A;
+	text-decoration:none;
+	
+}
+
+.contenido_parrafo--enlaces p a:focus{
+	color:#CC3D3D;
+	text-decoration:none;
+
+}
+
+/* Sidebar Horario */
+
+.bg-contenido--sidebar{
+	background:#0B1A4A;
+	padding-bottom:50px;
+}
+
+.bg-contenido--sidebar h2{
+	padding-top:32px;
+	font-size:1.8rem;
+	font-family:'titulo';
+	padding-left:15px;
+	color:white;
+}
+
+.contenido_sidebar--dias h3{
+	font-size:1.5rem;
+	font-family:'titulo';
+	color:#D9544D;
+}
+
+.contenido_sidebar--dias p{
+	font-size:1.4rem;
+	font-family:'titulo';
+	color:white;
+}
+.contenido_sidebar--horas h3{
+	font-size:1.5rem;
+	font-family:'titulo';
+	color:#D9544D;
+}
+
+.contenido_sidebar--horas p{
+	font-size:1.4rem;
+	font-family:'contenido';
+	color:white;
+}
+
+.contenido_sidebar--horas p span{
+	font-size:1.4rem;
+	font-family:'titulo';
+	color:#D9544D;
+}
+
+/* Sidebar Formulario */
+
+.bg-appointments{
+	background:#CD3D3D;
+	padding-top:15px;
+	padding-bottom:40px;
+
+}
+
+.contenido_sidebar--formulario h2{
+	padding-left:0px;
+	padding-bottom:10px;
+}
+
+.btn_contacto-contenido--enviar{
+	background:#FFFFFF;
+	color:#CD3D3D;
+	width:35%;
+	font-size:1.4rem;
+	font-family:'titulo';
+	border-radius:0px;
+}
+
+.btn_contacto-contenido--enviar:hover{
+	background:#FFFFFF;
+	color:#0B1A49;
+	width:35%;
+	font-size:1.4rem;
+	font-family:'titulo';
+	border-radius:0px;
+}
+
+.btn_contacto-contenido--enviar:focus{
+	background:#FFFFFF;
+	color:#0B1A49;
+	width:35%;
+	font-size:1.4rem;
+	font-family:'titulo';
+	border-radius:0px;
+}
+
+.contenido_sidebar--formulario h2{
+	color:white;
+	font-size:1.7rem;
+	font-family:'titulo';
+}
+
+/* Sidebar Mapa */
+
+.bg-contacto-mapa{
+	background:#0B1A4A;
+	margin-bottom:110px;
+	padding-bottom:30px;
+	
+}
+
+.no-padding{
+	padding-left:0 !important;
+	padding-right:0 !important;
+}
+
+
+
+
+
